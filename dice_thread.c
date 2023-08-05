@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 #define SIZE 4
-
+/*This file will pushed to github*/
 void *dice_roller()
 {
     int value = (rand() % 6) + 1;
