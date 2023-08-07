@@ -11,6 +11,7 @@ void print(int n)
 int main()
 {
 	int n;
+	std::cout << "Second CPP" << std::endl;
 	std::cout << "Enter n" << std::endl;
 	std::cin >> n;
 	print(n);
